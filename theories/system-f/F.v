@@ -1,4 +1,4 @@
-(* chapter 16 of harper's practical foundations of programming laguages *)
+(* chapter 16 of harper's practical foundations of programming languages *)
 Module SystemF.
   (* de bruijn indexed types *)
   Inductive tau : Type -> Type :=
